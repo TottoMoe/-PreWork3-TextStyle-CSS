@@ -1,0 +1,41 @@
+h1 {
+  text-align: center;
+}
+.one {
+  color: red;
+}
+.two {
+  color: blue;
+}
+.three {
+  color: green;
+}
+.four {
+  font-size: 30px;
+}
+.five {
+  font-size: 14px;
+}
+.six {
+  text-align: center;
+}
+.sevent {
+  font-weight: bold;
+}
+.eight {
+  font-family: Sans-serif;
+}
+.nine {
+  color: orange;
+  font-weight: bold;
+  font-size: 24px;
+}
+.styledFont {
+  color: lightgreen;
+}
+#styledImage {
+  border: 5px solid orange;
+  background-color: blue;
+  width:400px;
+  height: 300px;
+}
